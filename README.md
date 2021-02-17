@@ -15,3 +15,7 @@ As stated above, the main purpose is blah blah blah
 This is deployment text
 
 ## How to Contribute
+
+## Copyright
+
+Git.Training 2014
