@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Jesse jesse@a.b
+    Jesse jesse@a.com
 
 # THANKS
 
